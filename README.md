@@ -7,4 +7,4 @@
 * [grassmods_ko.po](https://github.com/OSGeo/grass/blob/master/locale/po/grassmods_ko.po)
 * [grasswxpy_ko.po](https://github.com/OSGeo/grass/blob/master/locale/po/grasswxpy_ko.po)
 
-더 자세한 사항은 [GRASS GIS 한글 번역](https://geni.isnew.info/grass-gis-%ED%95%9C%EA%B8%80-%EB%B2%88%EC%97%AD.html)를 참고하세요.
+더 자세한 사항은 [GRASS GIS 한글 번역](https://geni.isnew.info/grass-gis-%ED%95%9C%EA%B8%80-%EB%B2%88%EC%97%AD.html)을 참고하세요.
