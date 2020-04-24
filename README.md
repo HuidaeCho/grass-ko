@@ -6,5 +6,6 @@
 * [grasslibs.pot](https://www.transifex.com/grass-gis/grass7/translate/#ko/grasslibspot)
 * [grassmods.pot](https://www.transifex.com/grass-gis/grass7/translate/#ko/grassmodspot)
 * [grasswxpy.pot](https://www.transifex.com/grass-gis/grass7/translate/#ko/grasswxpypot)
+* [모든 문자열](https://www.transifex.com/grass-gis/grass7/translate/#ko/$)
 
 더 자세한 사항은 [GRASS GIS 한글 번역](https://geni.isnew.info/grass-gis-%ED%95%9C%EA%B8%80-%EB%B2%88%EC%97%AD.html)을 참고하세요.
