@@ -9,3 +9,7 @@
 * [모든 문자열](https://www.transifex.com/grass-gis/grass7/translate/#ko/$)
 
 더 자세한 사항은 [GRASS GIS 한글 번역](https://geni.isnew.info/grass-gis-%ED%95%9C%EA%B8%80-%EB%B2%88%EC%97%AD.html)을 참고하세요.
+
+## GRASS GIS에서 한글 메시지 보기
+
+[GRASS GIS에서 한글 메시지 보기](https://geni.isnew.info/grass-gis%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%B3%B4%EA%B8%B0.html)를 참고하세요.
