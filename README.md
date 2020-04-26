@@ -14,6 +14,8 @@
 
 [GRASS GIS에서 한글 메시지 보기](https://geni.isnew.info/grass-gis%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%B3%B4%EA%B8%B0.html)를 참고하세요.
 
+![GRASS GIS 한글 시작 화면](https://geni.isnew.info/grass-gis%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%B3%B4%EA%B8%B0/grass-gui-ko.png)
+
 ## GRASS GIS 한국어 사용자 모임
 
 ...같은 것은 아직 없습니다.
