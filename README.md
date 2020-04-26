@@ -8,6 +8,8 @@
 * [grasswxpy.pot](https://www.transifex.com/grass-gis/grass7/translate/#ko/grasswxpypot)
 * [모든 문자열](https://www.transifex.com/grass-gis/grass7/translate/#ko/$)
 
+영어 발음을 그대로 한글로 옮길 때는 [한국어 어문 규범 외래어 표기법 용례 찾기](http://kornorms.korean.go.kr/example/exampleList.do)를 기준으로 삼습니다.
+
 더 자세한 사항은 [GRASS GIS 한글 번역](https://geni.isnew.info/grass-gis-%ED%95%9C%EA%B8%80-%EB%B2%88%EC%97%AD.html)을 참고하세요.
 
 ## GRASS GIS에서 한글 메시지 보기
