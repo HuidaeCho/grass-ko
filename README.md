@@ -14,6 +14,6 @@
 
 [GRASS GIS에서 한글 메시지 보기](https://geni.isnew.info/grass-gis%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%B3%B4%EA%B8%B0.html)를 참고하세요.
 
-## GRASS GIS 한국어 포럼
+## GRASS GIS 한국어 사용자 모임
 
 [OSGeo 한국어 지부 메일링 리스트](https://groups.google.com/forum/#!forum/osgeo-kr)에서 오픈소스 GIS에 관한 질문을 하실 수 있습니다. 다만 주로 QGIS에 관한 질의 응답이 많습니다. 아무래도 GRASS GIS만 사용하는 경우가 드물어서 그렇지 않을까 짐작합니다. 굳이 GRASS GIS 전용 메일링 리스트나 포럼을 만들 필요는 없을 것 같았지만 이곳 GitHub에서 번역 관련 토의를 하기로 결정하기 전에 이것 저것 시도해 보면서 만든 [GRASS GIS 한국어 메일링 리스트](https://groups.google.com/forum/#!forum/grass-ko)와 [GRASS GIS 한국어 포럼](https://grass.isnew.info/)이 있습니다. GRASS GIS에 관련된 질문만 받는 곳입니다.
