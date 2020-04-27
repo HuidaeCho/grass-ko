@@ -3,7 +3,7 @@
 이곳은 [GRASS GIS](https://grass.osgeo.org/)의 한글 번역에 관해 토의하는 곳입니다. GIS 경험이 있으시고 번역에 기여하고 싶으신 분들은 [GRASS GIS 7 Transifex 홈페이지](https://www.transifex.com/grass-gis/grass7/)에서 `Help Translate "GRASS GIS 7"` 링크를 이용해서 Korean 팀에 가입 요청을 하시면 됩니다. 단, 좀비 번역자들을 방지하기 위해 이메일로 소통이 가능하시고 번역하실 준비가 되신 분들만 요청해 주시기 바랍니다. 현재 한글 번역 팀은 다음과 같습니다.
 
 * 조희대: [@HuidaeCho](https://www.transifex.com/user/profile/HuidaeCho/)
-* 강성진: [@SUNGJIN] (<<https://www.transifex.com/user/profile/SUNGJIN/) (비공개)
+* 강성진: [@SUNGJIN](https://www.transifex.com/user/profile/SUNGJIN/) (비공개)
 
 [grass-ko.csv](https://github.com/HuidaeCho/grass-ko/blob/master/grass-ko.csv) 파일은 [GRASS GIS 7 한글 용어집](https://www.transifex.com/grass-gis/grass7/glossary/ko/)을 내보내기한 파일입니다. Transifex에서 많은 단어들을 한눈에 보기가 불편해서 이곳에 올렸습니다. 다시 들여보내기가 되지 않기 때문에 이 CSV 파일은 이곳에서 갱신하지는 않고 주기적으로 Transifex에서 내보내기할 예정입니다. 이곳에서 결정된 사항은 [Transfex의 용어집](https://www.transifex.com/grass-gis/grass7/glossary/ko/)에 바로 적용해 주시기 바랍니다.
 
