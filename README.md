@@ -1,6 +1,6 @@
 # GRASS GIS 한글 번역 토의
 
-이곳은 [GRASS GIS](https://grass.osgeo.org/)의 한글 번역에 관해 토의하는 곳입니다. GIS 경험이 있으시고 번역에 기여하고 싶으신 분들은 [GRASS GIS 7 Transifex 홈페이지](https://www.transifex.com/grass-gis/grass7/)에서 `Help Translate "GRASS GIS 7"` 링크를 이용해서 Korean 팀에 가입 요청을 하시면 됩니다. 단, 좀비 번역자들을 방지하기 위해 이메일로 소통이 가능하시고 번역하실 준비가 되신 분만 요청해 주시기 바랍니다. 현재 한글 번역 팀은 다음과 같습니다.
+이곳은 [GRASS GIS](https://grass.osgeo.org/)의 한글 번역에 관해 토의하는 곳입니다. GIS 경험이 있으시고 번역에 기여하고 싶으신 분들은 [GRASS GIS 7 Transifex 홈페이지](https://www.transifex.com/grass-gis/grass7/)에서 `Help Translate "GRASS GIS 7"` 링크를 이용해서 Korean 팀에 가입 요청을 하시면 됩니다. 단, 좀비 번역자들을 방지하기 위해 이메일로 소통이 가능하시고 번역하실 준비가 되신 분들만 요청해 주시기 바랍니다. 현재 한글 번역 팀은 다음과 같습니다.
 
 * 조희대: [@HuidaeCho](https://www.transifex.com/user/profile/HuidaeCho/)
 * 강성진: [@SUNGJIN] (<<https://www.transifex.com/user/profile/SUNGJIN/) (비공개)
